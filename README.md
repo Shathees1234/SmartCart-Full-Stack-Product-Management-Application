@@ -1,5 +1,4 @@
-E-Commerce Product Management
-
+SmartCart: Full-Stack Product Management Application
 Project Overview
 This is a *full-stack E-Commerce Product Management System* built using **React.js (Frontend), Node.js + Express.js (Backend), and MySQL (Database)**.  
 It allows users to **view, add, and manage products** dynamically. The system simulates **AI-style rule-based automation** with features like **low-stock alerts**.
